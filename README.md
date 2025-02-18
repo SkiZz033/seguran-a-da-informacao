@@ -1,2 +1,2 @@
-# seguran-a-da-informacao
+# seguranca-a-da-informacao
 Projeto da disciplica Segurança em Banco de Dados
