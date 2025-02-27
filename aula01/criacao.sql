@@ -14,8 +14,8 @@ sudo mysql -u root -p
 #se ele pedir senha apenas pressione ENTER
 
 
-CREATE DATABASE trabalho1;
-USE trabalho1;
+CREATE DATABASE trampo1;
+USE trampo1;
 
 
 -- Criando a tabela clientes
